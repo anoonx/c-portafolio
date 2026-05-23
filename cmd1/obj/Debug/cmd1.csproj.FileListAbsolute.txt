@@ -1,0 +1,6 @@
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\bin\Debug\cmd1.exe.config
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\bin\Debug\cmd1.exe
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\bin\Debug\cmd1.pdb
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\obj\Debug\cmd1.csprojResolveAssemblyReference.cache
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\obj\Debug\cmd1.exe
+c:\users\iapixeleada\documents\visual studio 2015\Projects\cmd1\cmd1\obj\Debug\cmd1.pdb
