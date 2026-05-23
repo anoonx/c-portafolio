@@ -13,7 +13,7 @@ facturación electrónica CFDI y aplicaciones de escritorio.
 ## Proyecto destacado
 **Networkzone POS** — Sistema punto de venta con módulos de 
 inventario, historial clínico, caja y reportes. 
-+100 ventas en México, 2,000 instalaciones activas.
++100 ventas en México por mercado libre, 2,000 instalaciones activas.
 Distribución nacional vía Mercado Libre.
 
 ## Contacto
